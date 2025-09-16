@@ -9,3 +9,7 @@ Settings -> Action -> General -> Workflow Permissions
 [x] Read and Write
 
 [x] Allow GitHub Actions to create and approve pull requests
+
+## Dummy
+
+Just for test
